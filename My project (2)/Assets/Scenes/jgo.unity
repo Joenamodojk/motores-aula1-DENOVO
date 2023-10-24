@@ -847,6 +847,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4738495314002970889, guid: e82197e430c645b44a4389a2029a69be, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7e244ebb3d1c91f428b1d78956e10e5c, type: 2}
     - target: {fileID: 4738495314002970891, guid: e82197e430c645b44a4389a2029a69be, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -949,7 +953,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: da6526add62c588498508c9a3f6ea144, type: 2}
+  - {fileID: 2100000, guid: 8e96770bb4a8c814bae4334d9a24ed8f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1046,7 +1050,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ab907fe46a7a2d745928881a1e0102e5, type: 2}
+  - {fileID: 2100000, guid: 8e96770bb4a8c814bae4334d9a24ed8f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1127,7 +1131,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 4.2872925, y: -1.201294}
-  m_SizeDelta: {x: 229.8107, y: 105.4231}
+  m_SizeDelta: {x: 635.6177, y: 105.4231}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1092000627
 MonoBehaviour:
@@ -1855,7 +1859,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: da6526add62c588498508c9a3f6ea144, type: 2}
+  - {fileID: 2100000, guid: 8e96770bb4a8c814bae4334d9a24ed8f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2107,7 +2111,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: da6526add62c588498508c9a3f6ea144, type: 2}
+  - {fileID: 2100000, guid: 8e96770bb4a8c814bae4334d9a24ed8f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
